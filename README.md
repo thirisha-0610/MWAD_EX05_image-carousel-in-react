@@ -194,7 +194,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 
 ![445430864-5556a811-136d-4c95-84ed-ea8389a2d0b8](https://github.com/user-attachments/assets/cd0e10ca-0a04-42b1-adfc-4f6b1a2f7bad)
 
-![445430904-e56a31dc-da2a-4723-ba78-2dbc768284e2](https://github.com/user-attachments/assets/6d64c6ed-3596-4aa0-aae5-faaeee4a5c43)
+![445430807-97fa5079-4b2b-47d8-b5a3-c463acab6ad6](https://github.com/user-attachments/assets/61467faf-06d9-4f6b-8120-8f48fa8b5649)
 
 ![445430904-e56a31dc-da2a-4723-ba78-2dbc768284e2](https://github.com/user-attachments/assets/63788fb5-6dcc-4ed7-a353-fa77de7fbbd1)
 
